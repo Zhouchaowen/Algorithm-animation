@@ -2,7 +2,7 @@
 ## 1.排序算法
     1. 快速排序（待修改....）
     2. 归并排序
-    ![image](排序算法/guibin.gif)
+    ![image](https://github.com/Zhouchaowen/Algorithm-animation/blob/master/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/guibing.gif)
     3. 堆排序
 ## 2.二分
 
